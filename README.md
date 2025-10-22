@@ -3,6 +3,6 @@
 Some text
 Hiiiiiiiiiiiiiiii~~~~~~~
 
-Whatsup
-My name is John.
+
+My name is Adam.
 Sarah, where are you ?
